@@ -16,3 +16,9 @@ The subject undergoing the simulation, is prepared by placing a set of VR goggle
 Therefore, via the use of EEG techniques, we recorded the subjects’ brain activity before, during, and after the simulation. For this, we used a neurophysiological measurement called P300, that reflects brain activity associated with stimulus evaluation and categorization. We evoked a P300 response with a visual oddball task.
 
 The simulator has the potential of providing researchers the opportunity to further study psychosis-like states of mind. However, a scientific evaluation of the validity of the simulator is currently absent. Therefore, we chose to use the hackathon time and resources and combine the artistic and scientific knowhow to provide pilot data regarding the validity of the simulator. The simulator combines a set of VR goggles, headphones, and a laptop that provides the mixed reality interactive simulation. The game engine was created with SuperCollider and Quartz Composer. A Mobita eeg headset was used in combination with acquisition and analysis Matlab written by Jason Last
+
+## Other information:
+*This repository was made by specific group members and uploaded to a temporary environment. This temporary environment has been manually transferred to a a more permanent Hack the Brain Github account. If any of the former team members wish to administer this repository and manage the master branch, then they can contact the current administrator of the repository to gain the proper acces privileges to do so.*
+
+## Video on Project Psysim:
+[![Video image](http://handledmovie.com/get/player01.gif)](https://vimeo.com/177943247)
